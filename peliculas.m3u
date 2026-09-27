@@ -92,19 +92,19 @@ http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" group-title="Undefined",Universal TV Latin America (1080p)
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="" ,Coyote VS Acme
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.124:8080/coyote.jpeg" ,Coyote VS Acme
 http://192.168.1.124:8080/Coyote.vs.Acme.mkv
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="" ,El Final De La Calle Oak
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.124:8080/final.jpeg" ,El Final De La Calle Oak
 http://192.168.1.124:8080/The_End_of_Oak_Street.mkv
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="" ,Mayday
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.124:8080/mayday.jpeg" ,Mayday
 http://192.168.1.124:8080/Mayday.mp4
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="" ,Minions & Monstruos
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.124:8080/minions.jpeg" ,Minions & Monstruos
 http://192.168.1.124:8080/Minions_&_Monsters.mp4
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="" ,Resident Evil (HdTs)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.124:8080/Re.jpeg" ,Resident Evil (HdTs)
 http://192.168.1.124:8080/Resident_Evil_Hdts.mp4
 
 
