@@ -107,7 +107,8 @@ http://192.168.1.125:8080/Minions_&_Monsters.mp4
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Re.jpeg" ,Resident Evil (HdTs)
 http://192.168.1.125:8080/Resident_Evil_hdts.mp4
 
-
+#EXTINF:-1 group-title="Series" tvg-logo="http://192.168.1.125:8080/series/invincible/Invincible T1.jpeg" ,Invincible Temporada 1 Capitulo 1
+http://192.168.1.125:8080/series/invincible/Invincible Temporada 1 Capitulo 1.ts
 
 
 
