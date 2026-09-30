@@ -107,8 +107,17 @@ http://192.168.1.125:8080/Minions_&_Monsters.mp4
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Re.jpeg" ,Resident Evil (HdTs)
 http://192.168.1.125:8080/Resident_Evil_hdts.mp4
 
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/demolicion.jpeg" ,Los Hermanos Demolicion
+http://192.168.1.125:8080/Los_Hermanos_Demolicion.mkv
+
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Evil-Dead-Burn.jpeg" ,Evil Dead En LLamas 4k
 http://192.168.1.125:8080/Evil_Dead_Burn.mkv
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/el_hombre.jpeg" ,El Hombre Que Desafio Al Rey 4k
+http://192.168.1.125:8080/The_Uprising.mkv
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/motin.jpeg" ,El Motin 4k
+http://192.168.1.125:8080/El_Motin.mkv
 
 #EXTINF:-1 group-title="Series" tvg-logo="http://192.168.1.125:8080/series/invincible/InvincibleT1.jpeg" ,Invincible Temporada 1 Capitulo 1
 http://192.168.1.125:8080/series/invincible/Invincible Temporada 1 Capitulo 1.ts
