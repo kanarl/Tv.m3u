@@ -206,5 +206,5 @@ http://192.168.1.125:8080/series/invincible/Invincible Temporada 4 Capitulo 7.mp
 #EXTINF:-1 group-title="Series" tvg-logo="http://192.168.1.125:8080/series/invincible/Invincible T4.jpeg" ,Invincible Temporada 4 Capitulo 8
 http://192.168.1.125:8080/series/invincible/Invincible Temporada 4 Capitulo 8.mp4
 
-#EXTINF:-1 group-title="Series" tvg-logo="http://192.168.1.125:8080/series/invincible/Invincible-Atom-Eve.jpeg" ,Invincible Especial Atom Eve
+#EXTINF:-1 group-title="Series" tvg-logo="http://192.168.1.125:8080/series/invincible/Invencible-Atom-Eve.jpeg" ,Invincible Especial Atom Eve
 http://192.168.1.125:8080/series/invincible/Invincible Especial Atom Eve.ts
