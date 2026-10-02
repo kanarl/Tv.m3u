@@ -122,7 +122,7 @@ http://192.168.1.125:8080/The_Uprising.mkv
 #EXTINF:-1 group-title="Peliculas" group-title="4k" tvg-logo="http://192.168.1.125:8080/motin.jpeg" ,El Motin 4k
 http://192.168.1.125:8080/El_Motin.mkv
 
-#EXTINF:-1 sub="http://192.168.1.125:8080/Lawrence_of_Arabia.srt" group-title="Peliculas" group-title="4k" group-title="Clasicos 4k" tvg-logo="http://192.168.1.125:8080/lawrence_de_arabia.jpeg" ,Lawrence de Arabia (1962) 4k
+#EXTINF:-1 subs="http://192.168.1.125:8080/Lawrence_of_Arabia.srt" group-title="Peliculas" group-title="4k" group-title="Clasicos 4k" tvg-logo="http://192.168.1.125:8080/lawrence_de_arabia.jpeg" ,Lawrence de Arabia (1962) 4k
 http://192.168.1.125:8080/Lawrence_de_Arabia_4k.mkv
 
 #EXTINF:-1 group-title="Series" tvg-logo="http://192.168.1.125:8080/series/invincible/InvincibleT1.jpeg" ,Invincible Temporada 1 Capitulo 1
