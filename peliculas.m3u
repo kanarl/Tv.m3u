@@ -113,16 +113,16 @@ http://192.168.1.125:8080/Los_Hermanos_Demolicion.mkv
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/ultima_bala.jpeg" ,La ultima bala
 http://192.168.1.125:8080/One_Last_Shot.mkv
 
-#EXTINF:-1 group-title="Peliculas;4k" tvg-logo="http://192.168.1.125:8080/Evil-Dead-Burn.jpeg" ,Evil Dead En LLamas 4k
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Evil-Dead-Burn.jpeg" ,Evil Dead En LLamas 4k
 http://192.168.1.125:8080/Evil_Dead_Burn.mkv
 
-#EXTINF:-1 group-title="Peliculas;4k" tvg-logo="http://192.168.1.125:8080/el_hombre.jpeg" ,El Hombre Que Desafio Al Rey 4k
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/el_hombre.jpeg" ,El Hombre Que Desafio Al Rey 4k
 http://192.168.1.125:8080/The_Uprising.mkv
 
-#EXTINF:-1 group-title="Peliculas;4k" tvg-logo="http://192.168.1.125:8080/motin.jpeg" ,El Motin 4k
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/motin.jpeg" ,El Motin 4k
 http://192.168.1.125:8080/El_Motin.mkv
 
-#EXTINF:-1 sub="http://192.168.1.125:8080/Lawrence_of_Arabia.srt" group-title="Peliculas;4k;clasicos 4k" tvg-logo="http://192.168.1.125:8080/lawrence_de_arabia.jpeg" ,Lawrence de Arabia (1962) 4k
+#EXTINF:-1 sub="http://192.168.1.125:8080/Lawrence_of_Arabia.srt" group-title="Peliculas";"4k" tvg-logo="http://192.168.1.125:8080/lawrence_de_arabia.jpeg" ,Lawrence de Arabia (1962) 4k
 http://192.168.1.125:8080/Lawrence_de_Arabia_4k.mkv
 
 #EXTINF:-1 group-title="Series" tvg-logo="http://192.168.1.125:8080/series/invincible/InvincibleT1.jpeg" ,Invincible Temporada 1 Capitulo 1
