@@ -104,8 +104,8 @@ http://192.168.1.125:8080/Mayday.mp4
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/minions.jpeg" ,Minions & Monstruos
 http://192.168.1.125:8080/Minions_&_Monsters.mp4
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Re.jpeg" ,Resident Evil (HdTs)
-http://192.168.1.125:8080/Resident_Evil_hdts.mp4
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Re.jpeg" ,Resident Evil
+http://192.168.1.125:8080/Resident_Evil.mkv
 
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/demolicion.jpeg" ,Los Hermanos Demolicion
 http://192.168.1.125:8080/Los_Hermanos_Demolicion.mkv
