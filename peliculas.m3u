@@ -104,14 +104,17 @@ http://192.168.1.125:8080/Mayday.mp4
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/minions.jpeg" ,Minions & Monstruos
 http://192.168.1.125:8080/Minions_&_Monsters.mp4
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Re.jpeg" ,Resident Evil
-http://192.168.1.125:8080/Resident_Evil.mkv
-
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/demolicion.jpeg" ,Los Hermanos Demolicion
 http://192.168.1.125:8080/Los_Hermanos_Demolicion.mkv
 
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/ultima_bala.jpeg" ,La ultima bala
 http://192.168.1.125:8080/One_Last_Shot.mkv
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Zona_cero.jpeg" ,Zona Cero 4k
+http://192.168.1.125:8080/Colony_4k.mkv
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Re.jpeg" ,Resident Evil 4k
+http://192.168.1.125:8080/Resident_Evil_4k.mkv
 
 #EXTINF:-1 group-title="Peliculas" group-title="4k" tvg-logo="http://192.168.1.125:8080/Evil-Dead-Burn.jpeg" ,Evil Dead En LLamas 4k
 http://192.168.1.125:8080/Evil_Dead_Burn.mkv
