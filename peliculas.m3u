@@ -113,7 +113,7 @@ http://192.168.1.125:8080/Mayday.mp4
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/minions.jpeg" ,Minions & Monstruos
 http://192.168.1.125:8080/Minions_&_Monsters.mp4
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/demolicion.jpeg" ,Los Hermanos Demolicion
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/demolicion.jpeg" ,Equipo Demolicion
 http://192.168.1.125:8080/Los_Hermanos_Demolicion.mkv
 
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/ultima_bala.jpeg" ,La ultima bala
@@ -128,7 +128,7 @@ http://192.168.1.125:8080/Resident_Evil_4k.mkv
 #EXTINF:-1 group-title="Peliculas" group-title="4k" tvg-logo="http://192.168.1.125:8080/Evil-Dead-Burn.jpeg" ,Evil Dead En LLamas 4k
 http://192.168.1.125:8080/Evil_Dead_Burn.mkv
 
-#EXTINF:-1 group-title="Peliculas" group-title="4k" tvg-logo="http://192.168.1.125:8080/el_hombre.jpeg" ,El Hombre Que Desafio Al Rey 4k
+#EXTINF:-1 group-title="Peliculas" group-title="4k" tvg-logo="http://192.168.1.125:8080/La_Rebelion.jpeg" ,La Rebelion 4k
 http://192.168.1.125:8080/The_Uprising.mkv
 
 #EXTINF:-1 group-title="Peliculas" group-title="4k" tvg-logo="http://192.168.1.125:8080/motin.jpeg" ,El Motin 4k
