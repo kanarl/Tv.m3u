@@ -92,6 +92,15 @@ http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="UniversalTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" ,Universal TV Latin America (1080p)
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
 
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/The_Dog_Stars.jpeg" ,La Guerra de los Ultimos
+http://192.168.1.125:8080/The_Dog_Stars.mkv
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/La_mangosta.jpeg" ,La Mangosta
+http://192.168.1.125:8080/La_mangosta.mkv
+
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/Just_Play_Dead.jpeg" ,Just Play Dead
+http://192.168.1.125:8080/Just_Play_Dead.mkv
+
 #EXTINF:-1 group-title="Peliculas" tvg-logo="http://192.168.1.125:8080/coyote.jpeg" ,Coyote VS Acme
 http://192.168.1.125:8080/Coyote.vs.Acme.mkv
 
